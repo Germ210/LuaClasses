@@ -22,3 +22,4 @@ Lastly, let's verify if it works:
 [Debugging](Images/SeeIfItWorks.png)
 The best part of composition is that it isn't limited to one table, you can call from multiple tables (check the composition examples in the Examples folder)
 By following these steps, you'll grasp the versatility and power LuaClasses brings to Lua programming, especially in game development scenarios.
+If you cannot see the code images, it is in the general example script
